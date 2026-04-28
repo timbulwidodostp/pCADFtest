@@ -1,6 +1,8 @@
 # pCADFtest
 Panel Covariate-Augmented Dickey-Fuller (pCADF) unit root test Use pCADFtest (punitroots) With (In) R Software
 
+https://www.youtube.com/watch?v=Y05nVrxrWew
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
